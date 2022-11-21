@@ -1,2 +1,8 @@
+# IDEA files
+*.idea
+
 # MacOs files
 *.DS_Store
+
+# Tempory test files
+test.go
