@@ -6,9 +6,9 @@ import (
 	"read-adviser-bot/clients/telegram"
 )
 
-// consumer - потребитель
 // fetcher - сборщик
 // processor - обработчик
+// consumer - потребитель
 
 const (
 	tgBotHost = "api.telegram.org"
